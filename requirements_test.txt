@@ -1,2 +1,2 @@
-aiounittest==1.3.1
-pytest==6.2.4
+aiounittest==1.4.2
+pytest==7.4.1
